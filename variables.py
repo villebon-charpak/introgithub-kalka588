@@ -24,7 +24,7 @@
 
 # ... Écrivez votre code ici ...
 
-
+Ma variable est h.
 
 print(ma_variable)
 
